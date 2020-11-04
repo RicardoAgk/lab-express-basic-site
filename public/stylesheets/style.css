@@ -1,0 +1,18 @@
+
+#first-page-body{
+    background-color: aquamarine;
+
+
+}
+h1{
+    margin: auto;
+    text-align: center;
+}
+nav a{
+    padding: 40px;
+    font-size: 2em;
+}
+
+#gallery{
+    background-color: aquamarine;
+}
